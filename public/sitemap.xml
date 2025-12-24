@@ -2,19 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://honeybadgerdev.github.io/hugo-test3/</loc>
+    <loc>/</loc>
     <lastmod>2025-12-24T23:24:20+00:00</lastmod>
   </url><url>
-    <loc>https://honeybadgerdev.github.io/hugo-test3/posts/itsme/</loc>
+    <loc>/posts/itsme/</loc>
     <lastmod>2025-12-24T23:24:20+00:00</lastmod>
   </url><url>
-    <loc>https://honeybadgerdev.github.io/hugo-test3/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-12-24T23:24:20+00:00</lastmod>
   </url><url>
-    <loc>https://honeybadgerdev.github.io/hugo-test3/posts/hello/</loc>
+    <loc>/posts/hello/</loc>
+    <lastmod>2025-12-24T23:22:20+00:00</lastmod>
   </url><url>
-    <loc>https://honeybadgerdev.github.io/hugo-test3/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://honeybadgerdev.github.io/hugo-test3/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
