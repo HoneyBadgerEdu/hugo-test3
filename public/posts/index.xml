@@ -10,23 +10,6 @@
     <atom:link href="https://honeybadgerdev.github.io/hugo-test3/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>https://honeybadgerdev.github.io/hugo-test3/posts/hello/</link>
-      <pubDate>Wed, 24 Dec 2025 23:24:20 +0000</pubDate>
-      <guid>https://honeybadgerdev.github.io/hugo-test3/posts/hello/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;cat image&#34; loading=&#34;lazy&#34; src=&#34;https://honeybadgerdev.github.io/hugo-test3/images/serpan.jpg&#34;&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;имя игрового персонажа который вдохновлял меня в детстве&lt;/li&gt;
-&lt;li&gt;как я называл своего брата в детстве&lt;/li&gt;
-&lt;li&gt;что висело у папы в комнате на стене в стекляной рамке справа у входа&lt;/li&gt;
-&lt;li&gt;домашний номер телефона папы&lt;/li&gt;
-&lt;li&gt;какая была особеность у моего первого хомяка&lt;/li&gt;
-&lt;li&gt;имя первого кота у папы, которого я помню с детства&lt;/li&gt;
-&lt;li&gt;пин код на старом телефоне самсунг который был у меня в детстве&lt;/li&gt;
-&lt;li&gt;имя черной собаки которая играла со мной в очень раннем детстве&lt;/li&gt;
-&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>Hello</title>
       <link>https://honeybadgerdev.github.io/hugo-test3/posts/itsme/</link>
       <pubDate>Wed, 24 Dec 2025 23:24:20 +0000</pubDate>
       <guid>https://honeybadgerdev.github.io/hugo-test3/posts/itsme/</guid>
