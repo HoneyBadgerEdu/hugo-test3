@@ -4,7 +4,7 @@ draft: false
 title: 'Hello'
 ---
 
-![test image](./image/serpan.jpg)
+![cat image](/image/serpan.jpg)
 
 1. имя игрового персонажа который вдохновлял меня в детстве
 2. как я называл своего брата в детстве
